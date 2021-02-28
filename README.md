@@ -1,0 +1,2 @@
+# sgc
+Detailed parameter settings
